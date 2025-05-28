@@ -1,0 +1,5 @@
+{
+  "name": "GNOME Extension AI Builder",
+  "description": "An application that uses AI to help generate boilerplate code for GNOME Shell Extensions based on user descriptions. Leverages the Gemini API and GJS guidelines.",
+  "requestFramePermissions": []
+}
